@@ -1,0 +1,44 @@
+.Footer{
+    width: 100%;
+    text-align: center;
+    size: 22px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: fixed;                  
+    bottom:0; 
+    left :0; 
+    background: #3495eb;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    z-index:1000;
+}
+.Header{
+    width: 100%;
+    text-align: left;
+    size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    z-index:1000;
+    position: sticky;                  
+    top: 0; 
+    background: #3495eb;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+}
+.headname1{
+  
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+.headname2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(8, 32, 48);
+
+}
+.noteicon{
+    position: relative;
+    top: 4px;
+   
+    margin-left: 5px;
+    margin-right: 2px;
+}

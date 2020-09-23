@@ -1,0 +1,56 @@
+.Logindiv{
+
+    max-width: fit-content;
+    border-radius: 25px;
+    min-height: fit-content;
+    margin: 50px auto;
+    margin-top: 50px;
+    padding: 10px;
+    position: relative;
+    box-shadow: 5px 10px 18px #888888;
+    background: #ffffff;
+    
+}
+.logindivtext{
+    max-width: 100%;
+   
+    text-align:center;
+}
+
+.logdiv{
+    width: 100%;
+    height: auto;
+    /* overflow: auto;
+    overflow-x: hidden;
+    overflow-y: hidden; */
+
+    align-items: center;
+    z-index:1000;
+    
+  }
+
+
+.Logintext{
+
+    size: 30px;
+    color: #010305;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 600;
+    position: 'relative';
+    margin: 0 auto;
+}
+
+.loginname1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:#3495eb;
+    font-weight: 700;
+    position: 'relative';
+
+}
+
+.loginname2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(8, 32, 48);
+    font-weight: 700;
+}
+
